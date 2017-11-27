@@ -1,0 +1,11 @@
+﻿body,html{width:320px;height:480px;padding:0px;margin:0px;}
+body{background-color: black;background-position:320px 480px;}
+.a{background-color:silver;color: red;width:480px;height:320px;}
+.b{background-color:white;color:lime;width:480px;height:320px;}
+.a{width:150px;height:100px;float:left;}
+.b{width:150px;height:100px;float:right;}
+.c{background-color:sandybrown;width:480px;height:40px;bottom:0px;position:fixed;}
+#medidores{position:fixed;width:150px; height:20px;Font-size: 20px}
+#ajustes{position:fixed; width:90px; height: 20px;Font-size:20px}
+#nave{text-align:center;position:fixed;top:380px;width:160px;height:120px;}
+#nave img{height:100%;}
